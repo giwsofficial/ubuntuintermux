@@ -1,5 +1,5 @@
 
-# ubuntu-in-termux
+# ubuntu in termux
 
 ## What's This?
 
